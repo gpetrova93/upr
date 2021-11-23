@@ -13,6 +13,9 @@ namespace AnimalsNasledqwane
         public void Weep()
         {
             Console.WriteLine("weeping");
+            Console.WriteLine("weeping")
+            Console.WriteLine("weeping")
+            Console.WriteLine("weeping")
         }
     }
 }
