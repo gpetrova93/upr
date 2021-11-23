@@ -13,7 +13,7 @@ namespace AnimalsNasledqwane
         }
         public void Bark()
         {
-            Console.WriteLine("barking");
+            Console.WriteLine("bark");
         }
         public void Print()
         {
