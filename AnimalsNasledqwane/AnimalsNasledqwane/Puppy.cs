@@ -15,7 +15,12 @@ namespace AnimalsNasledqwane
             Console.WriteLine("weeping");
             Console.WriteLine("weeping")
             Console.WriteLine("weeping")
+            
             Console.WriteLine("weeping")
+        }
+        
+        public void main(){
+        console.writeline("towa trqbwa da e greshno");
         }
     }
 }
