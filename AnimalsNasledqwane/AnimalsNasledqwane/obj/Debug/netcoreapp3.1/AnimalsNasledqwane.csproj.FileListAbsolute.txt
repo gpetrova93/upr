@@ -1,0 +1,14 @@
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.exe
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.deps.json
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.runtimeconfig.json
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.runtimeconfig.dev.json
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.dll
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\bin\Debug\netcoreapp3.1\AnimalsNasledqwane.pdb
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.csproj.AssemblyReference.cache
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.AssemblyInfoInputs.cache
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.AssemblyInfo.cs
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.csproj.CoreCompileInputs.cache
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.dll
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.pdb
+C:\Users\Gergana Avramova\source\repos\AnimalsNasledqwane\AnimalsNasledqwane\obj\Debug\netcoreapp3.1\AnimalsNasledqwane.genruntimeconfig.cache
