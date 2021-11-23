@@ -15,7 +15,6 @@ namespace AnimalsNasledqwane
             Console.WriteLine("weeping")
             Console.WriteLine("weeping")
             Console.WriteLine("weeping")Console.WriteLine("weeping")
-            Console.WriteLine("weeping")
-        }
+            
     }
 }
